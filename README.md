@@ -1,8 +1,5 @@
 # 🚀 Hola, soy Felipe Corzo | Desarrollador Full Stack
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=44749D&height=200&section=header&text=Felipe%20Corzo&fontSize=70&animation=fadeIn" alt="Banner" />
-</p>
 
 ### 👨‍💻 Sobre Mí
 Soy un **Desarrollador Full Stack Junior** enfocado en crear sistemas robustos y escalables. Actualmente, estoy finalizando mi especialización técnica en **Campusland**, donde he perfeccionado mi capacidad de resolución de problemas bajo metodologías ágiles.
@@ -36,13 +33,6 @@ Como integrante del colectivo **Agentes C4**, valoro la colaboración efectiva y
 *   **Control de Versiones (Git):** Manejo profesional de repositorios, flujos de trabajo con ramas y Pull Requests.
 *   **Habilidades Blandas:** Comunicación asertiva, adaptabilidad al cambio y capacidad de liderazgo, demostrada en la gestión operativa de proyectos como **Q'atro Pizza**.
 
----
-
-### 📈 Estadísticas de GitHub
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Felipe-Corzo&show_icons=true&theme=nord&hide_border=true" alt="Estadísticas de Felipe" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipecorzo&layout=compact&theme=nord&hide_border=true" alt="Lenguajes más usados" />
-</p>
 
 ---
 
