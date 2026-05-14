@@ -37,14 +37,14 @@ Como integrante del colectivo **Agentes C4**, valoro la colaboración efectiva y
 ---
 
 ### 📈 Estadísticas de GitHub
-![Estadísticas de Felipe](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUÍ&show_icons=true&theme=nord)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUÍ&layout=compact&theme=nord)
+![Estadísticas de Felipe](https://github-readme-stats.vercel.app/api?username=Felipe-Corzo&show_icons=true&theme=nord)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Corzo&layout=compact&theme=nord)
 
 ---
 
 ### 📫 Conectemos
 
-*   **Email:** [Felipecorzo47@gmail.com]
+*   **Email:** Felipecorzo47@gmail.com
 
 ---
 *"Transformando lógica compleja en experiencias simples."*
