@@ -35,8 +35,28 @@ Puedes conocer más sobre mi trayectoria y proyectos en mi **[portafolio persona
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-6E56CF?style=for-the-badge&logo=anthropic&logoColor=white)
 
 </div>
+
+---
+
+## Habilidades y Metodologías
+
+<div align="center">
+
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
+![Git](https://img.shields.io/badge/Git%20Flow-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Pull Requests](https://img.shields.io/badge/Pull%20Requests-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+| Área | Descripción |
+|---|---|
+| **Agilidad con SCRUM** | Experiencia en ciclos de entrega rápida (sprints), dailies y gestión de tareas orientadas a objetivos. |
+| **Control de versiones (Git)** | Manejo profesional de repositorios, flujos de trabajo con ramas y Pull Requests. |
+| **Habilidades blandas** | Comunicación asertiva, adaptabilidad al cambio y capacidad de liderazgo, demostrada en la gestión operativa de proyectos como **Q'atro Pizza**. |
 
 ---
 
@@ -58,7 +78,6 @@ Puedes conocer más sobre mi trayectoria y proyectos en mi **[portafolio persona
 | Institución | Programa | Especialidad |
 |---|---|---|
 | Campuslands | Técnico en Desarrollo de Software | Spring – Java |
-| Unisangil | Ingeniería de Sistemas | En curso |
 
 ---
 
@@ -81,6 +100,3 @@ Puedes conocer más sobre mi trayectoria y proyectos en mi **[portafolio persona
 *Gracias por visitar mi perfil.*
 
 </div>
-
----
-*"Transformando lógica compleja en experiencias simples."*
