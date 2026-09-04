@@ -1,44 +1,86 @@
-# 🚀 Hola, soy Felipe Corzo | Desarrollador Full Stack
+<div align="center">
 
+# Felipe Corzo
 
-### 👨‍💻 Sobre Mí
-Soy un **Desarrollador Full Stack Junior** enfocado en crear sistemas robustos y escalables. Actualmente, estoy finalizando mi especialización técnica en **Campusland**, donde he perfeccionado mi capacidad de resolución de problemas bajo metodologías ágiles.
+### Desarrollador de Software Junior | Especialista en Spring & Java
 
-Como integrante del colectivo **Agentes C4**, valoro la colaboración efectiva y la entrega constante de valor en cada línea de código.
+[![Portafolio](https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://felipe-corzo.github.io/Portafolio-Personal/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-corzo-716449249/)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipecorzo47@gmail.com)
 
----
-
-### 🔭 Estado Actual
-*   **🔭 Actualmente trabajando en:** Mi portafolio profesional desarrollado con **React**, **TypeScript** y **Tailwind CSS**.
-*   **🌱 Estoy aprendiendo:** Perfeccionando mi nivel de inglés (**A2.2**) y profundizando en **Arquitectura Hexagonal** con **Java Spring Boot**.
-*   **👯 Busco colaborar en:** Proyectos de código abierto en **Backend** (Java o Python) y soluciones de automatización.
-*   **💬 Pregúntame sobre:** Desarrollo de APIs REST, el colectivo **Agentes C4** y automatización de flujos con **n8n**.
-*   **⚡ Dato curioso:** Soy un entusiasta del *dual-boot* y disfruto probando distribuciones de **Linux** como Mint, Ubuntu o Manjaro.
+</div>
 
 ---
 
-### 🛠️ Mi Stack Tecnológico
+## Sobre mí
 
-| **Área** | **Tecnologías** |
-| :--- | :--- |
-| **Backend** | Java (Spring Boot), Python, Arquitectura Hexagonal |
-| **Frontend** | React, TypeScript, Tailwind CSS |
-| **Bases de Datos** | MySQL, PostgreSQL, DBeaver |
-| **Herramientas** | Git, SCRUM, Docker, Linux, n8n |
+Técnico en Desarrollo de Software graduado de **Campuslands**, con especialidad en **Spring y Java**. Enfocado en la construcción de aplicaciones backend robustas y escalables, con conocimientos complementarios en desarrollo frontend y bases de datos relacionales. Comprometido con las buenas prácticas de desarrollo, el aprendizaje continuo y la mejora constante de mis habilidades técnicas.
+
+Puedes conocer más sobre mi trayectoria y proyectos en mi **[portafolio personal](https://felipe-corzo.github.io/Portafolio-Personal/)**.
 
 ---
 
-### ⚙️ Habilidades y Metodologías
-*   **Agilidad con SCRUM:** Experiencia en ciclos de entrega rápida (sprints), dailies y gestión de tareas orientadas a objetivos.
-*   **Control de Versiones (Git):** Manejo profesional de repositorios, flujos de trabajo con ramas y Pull Requests.
-*   **Habilidades Blandas:** Comunicación asertiva, adaptabilidad al cambio y capacidad de liderazgo, demostrada en la gestión operativa de proyectos como **Q'atro Pizza**.
+## Stack Tecnológico
 
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
 
 ---
 
-### 📫 Conectemos
+## Métricas de GitHub
 
-*   **Email:** Felipecorzo47@gmail.com
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Felipe-Corzo&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Estadísticas de GitHub" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Corzo&layout=compact&hide_border=true&theme=default" alt="Lenguajes más utilizados" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Felipe-Corzo&hide_border=true&theme=default" alt="Racha de contribuciones" />
+
+</div>
+
+---
+
+## Formación Académica
+
+| Institución | Programa | Especialidad |
+|---|---|---|
+| Campuslands | Técnico en Desarrollo de Software | Spring – Java |
+| Unisangil | Ingeniería de Sistemas | En curso |
+
+---
+
+## Contacto
+
+<div align="center">
+
+| Medio | Enlace |
+|---|---|
+| Portafolio | [felipe-corzo.github.io/Portafolio-Personal](https://felipe-corzo.github.io/Portafolio-Personal/) |
+| LinkedIn | [felipe-corzo-716449249](https://www.linkedin.com/in/felipe-corzo-716449249/) |
+| Correo electrónico | [felipecorzo47@gmail.com](mailto:felipecorzo47@gmail.com) |
+
+</div>
+
+---
+
+<div align="center">
+
+*Gracias por visitar mi perfil.*
+
+</div>
 
 ---
 *"Transformando lógica compleja en experiencias simples."*
